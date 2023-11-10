@@ -18,7 +18,3 @@ print(fibonacci(10))
 # [x]
 
 # i want to see inline git blame
-
-print("Hello World")
-
-
